@@ -6,11 +6,11 @@ This repo is functionality complete
 
 # Getting started
 
-To get the aplication running your :
+To get the application running your :
 
 - Clone this repo
-- `bundle install` to install rspec testing dependencie
-- `ruby main.rb` to run the aplication
+- `bundle install` to install rspec testing dependence
+- `ruby main.rb` to run the application
 
 # Code Overview
 
@@ -20,6 +20,6 @@ To get the aplication running your :
 
 ## Folders
 
-- `input` - Contains the files with the input data, if you want add more test case only you need creat a new .txt file and put there the data with a correct structure.
-- `lib` - Contains the classes
+- `input` - Contains the files with the input data, if you want to add more test case only you need to creat a new .txt file and put there the data with a correct structure.
+- `lib` - Contains the main class
 - `spec` - Contains the test file
